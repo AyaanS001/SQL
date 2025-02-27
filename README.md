@@ -18,3 +18,80 @@ Best days of the week for sales.
 8) What is the customer retention rate based on repeat purchases?
 9) What percentage of revenue comes from new vs. returning customers?
 10) How do discounts and promotions impact sales volume and revenue?
+
+# Key Insights & Findings
+
+## Total Revenue & Orders
+
+Total Sales Revenue: $16,395,599.19
+
+Total Orders: 37,432
+
+This confirms a strong revenue stream with a healthy number of transactions.
+
+# Top-Selling Products
+
+(Included Outputs in the actual SQL File)
+
+October 2021 had the highest sales activity, indicating a peak demand period.
+
+# Best Customers by Total Spending
+
+Customer
+
+Total Spending ($)
+
+MULBERRIES BOUTIQUE
+
+$2,094,070.50
+
+AMANI CONCEPT TRADING LLC
+
+$930,451.00
+
+VAHARSHA BOUTIQUE
+
+$527,214.00
+
+ These customers contributed significantly to revenue and could be targeted for loyalty programs.
+
+# Monthly Sales Trends
+
+Month
+
+Total Revenue ($)
+
+April 2022
+
+$1,186,090.75
+
+May 2022
+
+$224,483.44
+
+April saw a major revenue spike, while May had a significant drop. Investigating this change can reveal insights into seasonality or promotions.
+
+# Best Days of the Week for Sales
+
+Day
+
+Total Revenue ($)
+
+Thursday
+
+$1,446,323
+
+Saturday
+
+$1,286,592
+
+Tuesday
+
+$1,172,562
+
+Sales are strongest on Thursdays and Saturdays, suggesting optimal days for promotions and marketing pushes.
+
+# Customer Retention Rate
+
+Retention Rate: 99.42%
+Most customers make repeat purchases, indicating strong customer loyalty.
