@@ -95,3 +95,5 @@ Sales are strongest on Thursdays and Saturdays, suggesting optimal days for prom
 
 Retention Rate: 99.42%
 Most customers make repeat purchases, indicating strong customer loyalty.
+
+### ALL DATA USED FOR THIS PROJECT WAS THROUGH KAGGLE THE CSV FILE IS INCLUDED AND CALLED INTERNATIONAL REPORT SALES
