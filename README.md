@@ -1,6 +1,11 @@
-# Project 1 SQL:
- ## Project Overview: Sales Analysis E-Commerce Sales Dataset (Sample dataset)
- ### Objective: Analyze sales performance, identify top-selling products, calculate revenue trends, and understand customer buying patterns.
+# Project 1:
+ ## Project Overview: E-Commerce Sales Analysis - SQL Project
+ ### Objective: This project analyzes sales performance using an E-Commerce Sales Dataset with SQLite and DBeaver. The goal is to extract key business insights related to:
+Total sales revenue & order trends,
+Top-selling products,
+Customer buying patterns,
+Seasonal sales trends,
+Best days of the week for sales.
 
 #### Key Business Questions to Answer:
 1) What are the total sales revenue and the number of orders?
