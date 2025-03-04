@@ -99,7 +99,7 @@ Most customers make repeat purchases, indicating strong customer loyalty.
 ### ALL DATA USED FOR THIS PROJECT WAS THROUGH KAGGLE THE CSV FILE IS INCLUDED AND CALLED INTERNATIONAL SALE REPORT
 
 
-=================================================================================================================================
+================================================================================================
 
 
 
