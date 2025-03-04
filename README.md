@@ -1,5 +1,5 @@
 # [Project 1:](https://github.com/AyaanS001/SQL/blob/main/E-CommerceScript.sql)
- ## [E-Commerce Sales Analysis](https://github.com/AyaanS001/SQL/blob/main/E-CommerceScript.sql) - SQL Project
+ ## [E-Commerce Sales Analysis](https://github.com/AyaanS001/SQL/blob/main/E-CommerceScript.sql) - SQL
  ### Overview: This project analyzes sales performance using an E-Commerce Sales Dataset with SQLite and DBeaver. The goal is to extract key business insights related to:
 Total sales revenue & order trends,
 Top-selling products,
