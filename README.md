@@ -99,6 +99,9 @@ Most customers make repeat purchases, indicating strong customer loyalty.
 ### ALL DATA USED FOR THIS PROJECT WAS THROUGH KAGGLE THE CSV FILE IS INCLUDED AND CALLED INTERNATIONAL SALE REPORT
 
 
+=================================================================================================================================
+
+
 
 # [Project 2](https://github.com/AyaanS001/SQL/blob/main/Data%20Wrangling%20Subscriptions%20Script.sql)
 ## SQL Data Wrangling Project: Customer Subscriptions Analysis
