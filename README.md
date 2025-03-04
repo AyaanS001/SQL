@@ -157,7 +157,7 @@ The raw dataset was **split into three relational tables** for better structure:
   - Lowest subscriptions in September 2022 (255 new subscriptions).
   - Consistent monthly fluctuations between 270-310 new subscriptions.
  
-  ### ALL DATA USED FOR THIS PROJECT WAS THROUGH KAGGLE THE CSV FILE IS INCLUDED AND CALLED 
+  ### ALL DATA USED FOR THIS PROJECT WAS THROUGH KAGGLE THE CSV FILE IS INCLUDED AND CALLED [Customer_Subscription_And_Transaction_Details](https://github.com/AyaanS001/SQL/blob/main/Customer_Subscription_And_Transaction_Details.csv)
 
 
 
