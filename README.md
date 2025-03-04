@@ -1,5 +1,5 @@
 # [Project 1](https://github.com/AyaanS001/SQL/blob/main/E-CommerceScript.sql)
- ## [E-Commerce Sales Analysis](https://github.com/AyaanS001/SQL/blob/main/E-CommerceScript.sql) - SQL
+ ## [E-Commerce Sales Analysis](https://github.com/AyaanS001/SQL/blob/main/E-CommerceScript.sql)
  ### Overview: This project analyzes sales performance using an E-Commerce Sales Dataset with SQLite and DBeaver. The goal is to extract key business insights related to:
 Total sales revenue & order trends,
 Top-selling products,
@@ -104,10 +104,10 @@ Most customers make repeat purchases, indicating strong customer loyalty.
 
 
 # [Project 2](https://github.com/AyaanS001/SQL/blob/main/Data%20Wrangling%20Subscriptions%20Script.sql)
-## SQL Data Wrangling Project: Customer Subscriptions Analysis
+## [SQL Data Wrangling Project: Customer Subscriptions Analysis](https://github.com/AyaanS001/SQL/blob/main/Data%20Wrangling%20Subscriptions%20Script.sql)
 
 ### Overview
-This project showcases my **SQL data wrangling** skills using **DBeaver with SQLite**. The dataset contains **customer subscription and transaction details** from an e-commerce platform. I performed **data cleaning, normalization, aggregation, and visualization** to derive key business insights.
+This project showcases my **SQL data wrangling** skills using SQL. The dataset contains customer subscription and transaction details from an e-commerce platform. I performed **data cleaning, normalization, aggregation, and visualization** to derive key business insights.
 
 ---
 
