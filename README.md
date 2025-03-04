@@ -96,7 +96,7 @@ Sales are strongest on Thursdays and Saturdays, suggesting optimal days for prom
 Retention Rate: 99.42%
 Most customers make repeat purchases, indicating strong customer loyalty.
 
-### ALL DATA USED FOR THIS PROJECT WAS THROUGH KAGGLE THE CSV FILE IS INCLUDED AND CALLED INTERNATIONAL SALE REPORT
+### ALL DATA USED FOR THIS PROJECT WAS THROUGH KAGGLE THE CSV FILE IS INCLUDED AND CALLED [INTERNATIONAL SALE REPORT](https://github.com/AyaanS001/SQL/blob/main/International%20sale%20Report.csv)
 
 
 ================================================================================================
@@ -156,6 +156,8 @@ The raw dataset was **split into three relational tables** for better structure:
   - Biggest spike in March 2022 (318 new subscriptions).
   - Lowest subscriptions in September 2022 (255 new subscriptions).
   - Consistent monthly fluctuations between 270-310 new subscriptions.
+ 
+  ### ALL DATA USED FOR THIS PROJECT WAS THROUGH KAGGLE THE CSV FILE IS INCLUDED AND CALLED 
 
 
 
